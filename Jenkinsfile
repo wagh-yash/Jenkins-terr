@@ -1,3 +1,8 @@
+
+### Use this complete Jenkinsfile
+
+Replace the entire contents with:
+
 ```groovy
 pipeline {
     agent any
@@ -99,5 +104,3 @@ pipeline {
         }
     }
 }
-```
-
